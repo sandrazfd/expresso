@@ -1,14 +1,28 @@
-*{
+* {
     box-sizing: border-box;
 }
-body{
-    margin:0;
-    padding:0;
+
+body {
+    margin: 0;
+    padding: 0;
 }
-.navbar-brand img{
-    width:100px;
+
+.navbar-brand img {
+    width: 100px;
 }
-.vids{
-    width:50px;
-    height: 60%;
+
+header {
+    background-color: #5D4037;
+}
+
+#servicos {
+    background-color: #795548;
+}
+
+#quem-somos {
+    background-color: #D7CCC8;
+}
+
+footer {
+    background-color: #5D4037;
 }
