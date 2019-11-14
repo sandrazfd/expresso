@@ -19,6 +19,11 @@ header {
     background-color: #795548;
 }
 
+.img1 {
+    width: 255px;
+    height: 198px;
+}
+
 #quem-somos {
     background-color: #D7CCC8;
 }
