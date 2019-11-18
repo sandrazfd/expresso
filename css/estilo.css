@@ -31,3 +31,9 @@ header {
 footer {
     background-color: #5D4037;
 }
+
+.fixedheightimg img {
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
