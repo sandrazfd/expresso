@@ -15,6 +15,10 @@ header {
     background-color: #5D4037;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, .9);
+}
+
 #servicos {
     background-color: #795548;
 }
